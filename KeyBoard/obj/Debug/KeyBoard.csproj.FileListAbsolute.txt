@@ -1,0 +1,17 @@
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\KeyBoard.exe.config
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\KeyBoard.exe
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\KeyBoard.pdb
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\Emgu.CV.dll
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\Emgu.CV.ML.dll
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\Emgu.CV.UI.dll
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\Emgu.Util.dll
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\ZedGraph.dll
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\Emgu.CV.xml
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\Emgu.CV.ML.xml
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\Emgu.CV.UI.xml
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\bin\Debug\Emgu.Util.xml
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\obj\Debug\KeyBoard.Form1.resources
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\obj\Debug\KeyBoard.Properties.Resources.resources
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\obj\Debug\KeyBoard.csproj.GenerateResource.Cache
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\obj\Debug\KeyBoard.exe
+D:\AsaProgrammer\Code\C#\KeyBoard\KeyBoard\obj\Debug\KeyBoard.pdb
